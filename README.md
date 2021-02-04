@@ -14,9 +14,7 @@
 
 安装pytorch
 
-'
-conda install pytorch torchvision cudatoolkit=10.0
-'
+'conda install pytorch torchvision cudatoolkit=10.0'
 
 ### 问题
 
