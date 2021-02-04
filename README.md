@@ -12,9 +12,10 @@
 
 以上自行搜索安装，速度不够选择国内镜像源或者挂代理。
 
-安装pytorch
 
-'conda install pytorch torchvision cudatoolkit=10.0'
+- 安装pytorch
+
+`conda install pytorch torchvision cudatoolkit=10.0`
 
 ### 问题
 
