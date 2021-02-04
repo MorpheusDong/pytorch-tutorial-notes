@@ -19,9 +19,12 @@
 
 ### 问题
 
-(1) pytorch安装中提示网络错误
+- pytorch安装中提示网络错误
+
 重新执行一遍上面的命令就行。可以挂代理，速度快很多。
 
-(2) 排查GPU是否可以使用：
+- 排查GPU是否可以使用：
+
 https://blog.csdn.net/weixin_43981229/article/details/106673581 （检查显卡驱动的版本问题）
+
 https://www.cnblogs.com/zhouzhiyao/p/11827267.html 
