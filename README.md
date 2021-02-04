@@ -1,9 +1,13 @@
 # pytorch-tutorial-notes
 
-# 开发环境配置
+### 开发环境配置
+
 (1) AnaConda
+
 (2) NVIDIA CUDA驱动
+
 (3) Pytorch
+
 (4) python IDE
 
 以上自行搜索安装，速度不够选择国内镜像源或者挂代理。
@@ -13,7 +17,8 @@
 conda install pytorch torchvision cudatoolkit=10.0
 '''
 
-# 问题
+### 问题
+
 (1) pytorch安装中提示网络错误
 重新执行一遍上面的命令就行。可以挂代理，速度快很多。
 
